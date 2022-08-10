@@ -10,9 +10,9 @@ Time spent: **1** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] Image and introductory message displayed on screen
-* [ ] Button displayed on screen
-* [ ] Toast with message appears when button is pressed 
+* [x] Image and introductory message displayed on screen
+* [x ] Button displayed on screen
+* [x ] Toast with message appears when button is pressed 
 
 The following **optional** features are implemented:
 
@@ -25,7 +25,7 @@ Here's a walkthrough of implemented features:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with[ScreenToGif](https://www.screentogif.com/) 
+GIF created with [ScreenToGif](https://www.screentogif.com/) 
 
 
 ## Notes
